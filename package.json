@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.1.47",
+    "@unocss/nuxt": "^0.34.0",
+    "@unocss/preset-icons": "^0.34.0",
+    "nuxt": "3.0.0-rc.3",
+    "sass": "^1.52.1",
+    "unocss": "^0.34.0"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.1.9",
+    "pinia": "^2.0.14"
+  }
+}
